@@ -167,7 +167,7 @@ common:
     url: https://developers.satellogic.com/getting-started/gettingstarted.html
   - type: Authentication
     url: https://developers.satellogic.com/api-authentication/getting_started.html
-  - type: SignUp
+  - type: Signup
     url: https://aleph.satellogic.com/
   - type: Product
     url: https://satellogic.com/products/
