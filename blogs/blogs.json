@@ -5,14 +5,14 @@
       "source": "https://satellogic.com/news/press-room/feed/",
       "feed_url": "https://satellogic.com/news/press-room/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
       "source": "https://satellogic.com/news/blog/feed/",
       "feed_url": "https://satellogic.com/news/blog/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 7,
       "method": "feed"
     },
     {
@@ -23,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 22,
-  "fetched": "2026-08-06T14:08:46Z"
+  "post_count": 30,
+  "fetched": "2026-08-15T12:11:08Z"
 }
