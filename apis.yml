@@ -64,6 +64,11 @@ apis:
       Credentials.
     humanURL: https://developers.satellogic.com/aleph-v2/introduction.html
     tags:
+      - Order
+      - Tasking
+      - Archive
+      - Earth Observation
+    tags_raw:
       - Orders
       - Tasking
       - Archive
@@ -157,6 +162,9 @@ apis:
       contract ID.
     humanURL: https://developers.satellogic.com/api-authentication/getting_started.html
     tags:
+      - Authentication
+      - Security
+    tags_raw:
       - Authentication
       - OAuth
       - Security
