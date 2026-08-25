@@ -5,14 +5,14 @@
       "source": "https://satellogic.com/news/press-room/feed/",
       "feed_url": "https://satellogic.com/news/press-room/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
       "source": "https://satellogic.com/news/blog/feed/",
       "feed_url": "https://satellogic.com/news/blog/feed/",
       "title": "",
-      "saved": 7,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -24,5 +24,5 @@
     }
   ],
   "post_count": 30,
-  "fetched": "2026-08-15T12:11:08Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
