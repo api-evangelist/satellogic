@@ -50,6 +50,24 @@ tags:
   - Multispectral
   - Hyperspectral
   - Tasking
+  - Archives
+  - Aleph
+  - NewSat
+  - Constellation
+  - Defense and Intelligence
+  - Energy and Mining
+  - Insurance
+  - Climate
+tags_raw:
+  - Earth Observation
+  - Satellite Imagery
+  - Geospatial
+  - Remote Sensing
+  - High Resolution
+  - Sub-Meter Imagery
+  - Multispectral
+  - Hyperspectral
+  - Tasking
   - Archive
   - Aleph
   - NewSat
@@ -77,7 +95,7 @@ apis:
     tags:
       - Order
       - Tasking
-      - Archive
+      - Archives
       - Earth Observation
     tags_raw:
       - Orders
@@ -121,6 +139,11 @@ apis:
       converted into archive orders.
     humanURL: https://developers.satellogic.com/aleph-v1/archive-api/archive_api_spec.html
     tags:
+      - Archives
+      - Catalog
+      - Imagery
+      - Earth Observation
+    tags_raw:
       - Archive
       - Catalog
       - Imagery
